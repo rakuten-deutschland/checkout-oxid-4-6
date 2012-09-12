@@ -1,0 +1,21 @@
+--------------------------------------------
+--- Rakuten Checkout module for Oxid 4.6 ---
+--------------------------------------------
+
+          INSTALLATION MANUAL
+
+1. Copy contents from folder "copy_this" to the root of your Oxid store;
+
+2. Merge template from "changed_full" folder with the one that currently exists in your store,
+   or if you haven't modified out/admin/tpl/order_main.tpl, out/admin/tpl/order_overview.tpl
+   and out/basic/tpl/page/checkout/basket.tpl in your store you can just overwrite it with the
+   version from the module, "template.patch" is also provided for your convenience, so it'll be
+   easier to track changes you should apply manually to the template. Note that you do NOT need
+   to upload patch to the server if you plan just to overwrite the template;
+
+3. Go to the admin -> Extensions -> Modules Rakuten Checkout, activate the module;
+
+4. Go to the admin -> Shop Settings -> Rakuten Checkout, enable and configure the module;
+
+5. Enjoy!
+

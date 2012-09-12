@@ -1,0 +1,25 @@
+Release Notes for Rakuten Checkout ver. 1.0.8
+----------------------------------------------
+09.08.2012
+
+*** Bug Fixes ***
+(COE-6) OXUSERID in table oxorder is empty 
+
+Release Notes for Rakuten Checkout ver. 1.0.7
+----------------------------------------------
+08.08.2012
+
+*** Bug Fixes ***
+(COE-28)  In admin -> Shop Settings -> Rakuten Checkout there is a vertical scrollbar incorrectly displayed
+
+Release Notes for Rakuten Checkout ver. 1.0.6
+---------------------------------------------
+11.07.2012
+
+*** Major Features ***
+(+) Integration with Rakuten Checkout
+(+) Configuration of the module in the back-end
+(+) Support of Standard and Inline integration methods
+(+) Support of order creation callbacks
+(+) Support of status updates callbacks
+(+) Support of shipment calls
